@@ -97,6 +97,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Translation Dialog...">
+        <Item>
+          <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
+          <ShortCut>'⌃⌘I'</ShortCut>
+          <Description>Show Translation Dialog...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CmsserverApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
