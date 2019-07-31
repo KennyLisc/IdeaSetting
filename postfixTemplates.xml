@@ -1,8 +1,0 @@
-<application>
-  <component name="PostfixTemplates">
-    <template id="logerror@userDefined" key=".logerror" provider="builtin.java" language-level="1.3" topmost="false">
-      <conditions />
-      <template name="fakeKey" value="LOGGER.error(&quot;$EXPR$&quot;+e.getMessage(), e)" toReformat="true" toShortenFQNames="true" />
-    </template>
-  </component>
-</application>
