@@ -1,4 +1,9 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="application Task Executor" />
+    </histories>
+  </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
   </component>
