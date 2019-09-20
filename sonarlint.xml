@@ -2,7 +2,6 @@
   <component name="SonarLintGlobalSettings">
     <option name="excludedRules">
       <set>
-        <option value="squid:CallToDeprecatedMethod" />
         <option value="squid:CommentedOutCodeLine" />
       </set>
     </option>
