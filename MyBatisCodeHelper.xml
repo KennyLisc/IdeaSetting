@@ -2,7 +2,6 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="database" value="SqlServer" />
         <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="mybatisGeneratorModelSuffix" value="Bean" />
         <option name="usejava8LocalDateTimeEct" value="true" />
